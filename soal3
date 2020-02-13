@@ -1,0 +1,14 @@
+<html>
+    <script>
+        function cekkoin(koin)
+        {
+            var sen1=25
+            var sen2=10
+            var sen3=5
+            var sen4=1
+    
+        }
+        console.log(cekkoin(49))//7
+
+    </script>
+</html>
