@@ -1,0 +1,14 @@
+<html>
+    <script>
+        const Faktorial=(num)=>
+        {
+            var arr=[]
+            for (var i=1;i<=num;i++)
+            arr.push(i)
+            return arr.reduce((j,k)=>j*k,1)
+        }
+        console.log(Faktorial(5))//120
+        console.log(Faktorial(4))//24
+        console.log(Faktorial(10))//3628800
+    </script>
+</html>
